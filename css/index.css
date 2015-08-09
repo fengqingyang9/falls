@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+#div1 {
+    width: 785px;
+    height: auto;
+    margin: 20px auto;
+}
+
+ul {
+    width: 225px;
+    margin: 5px;
+    float: left;
+}
+p{
+    text-align: center;
+}
